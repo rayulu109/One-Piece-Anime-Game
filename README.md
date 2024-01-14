@@ -4,6 +4,6 @@ In this project, let's build an **One piece Anime** by applying basics of javasc
 
 <br/>
 <div style="text-align: center;">
-    <img src="[<a href='https://postimg.cc/WtBwsMpD' target='_blank'><img src='https://i.postimg.cc/WtBwsMpD/Screenshot-347.png' border='0' alt='Screenshot-347'/></a>](https://i.ibb.co/wNC6KsX/Screenshot-347.png)" alt="One Piece Anime" style="max-width:90%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
+    <img src="[[<a href='https://postimg.cc/WtBwsMpD' target='_blank'><img src='https://i.postimg.cc/WtBwsMpD/Screenshot-347.png' border='0' alt='Screenshot-347'/></a>](https://i.ibb.co/wNC6KsX/Screenshot-347.png)" alt="One Piece Anime](https://i.ibb.co/wNC6KsX/Screenshot-347.png)" style="max-width:90%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12)">
 </div>
 <br/>
